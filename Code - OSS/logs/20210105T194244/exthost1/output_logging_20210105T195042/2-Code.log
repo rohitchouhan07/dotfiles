@@ -1,0 +1,16 @@
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.093 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.108 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.094 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.105 seconds
+

@@ -1,0 +1,13 @@
+[Added Associations]
+application/x-shellscript=geany.desktop;
+text/x-csrc=geany.desktop;
+text/plain=geany.desktop;vim.desktop;code-oss.desktop;
+text/x-makefile=geany.desktop;vim.desktop;
+application/x-executable=chromium.desktop;firefox.desktop;
+text/x-matlab=geany.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=firefox.desktop;
+application/pdf=org.pwmt.zathura.desktop;
+text/x-tex=geany.desktop;
+text/html=geany.desktop;firefox.desktop;
+application/x-sharedlib=geany.desktop;
+image/png=sxiv.desktop;

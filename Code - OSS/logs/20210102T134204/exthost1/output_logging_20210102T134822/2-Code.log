@@ -1,0 +1,99 @@
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.319 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.018 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.057 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.12 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.076 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.039 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.085 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.092 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.026 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.1 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+program.cpp: In function 'int main()':
+program.cpp:38:27: error: expected ';' before 'sum'
+   38 |     printf("%c", 97 + sum)
+      |                           ^
+      |                           ;
+   39 |     sum = 0;
+      |     ~~~                    
+
+[Done] exited with code=1 in 1 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.077 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.109 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.051 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.046 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.077 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.049 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.044 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.037 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.07 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.023 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.097 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.059 seconds
+

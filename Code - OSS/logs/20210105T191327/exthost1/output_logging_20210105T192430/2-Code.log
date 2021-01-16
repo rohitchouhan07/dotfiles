@@ -1,0 +1,4 @@
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.221 seconds
+

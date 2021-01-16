@@ -1,0 +1,66 @@
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+program.cpp: In function 'int main()':
+program.cpp:27:4: error: 'sum' was not declared in this scope; did you mean 'sumb'?
+   27 |    sum += ar[i];
+      |    ^~~
+      |    sumb
+program.cpp:31:4: error: 'sum' was not declared in this scope; did you mean 'sumb'?
+   31 |    sum += br[i];
+      |    ^~~
+      |    sumb
+
+[Done] exited with code=1 in 1.202 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.169 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+program.cpp: In function 'int main()':
+program.cpp:33:16: error: invalid conversion from 'int*' to 'size_t' {aka 'long unsigned int'} [-fpermissive]
+   33 |   qsort(ar, ar + n);
+      |             ~~~^~~
+      |                |
+      |                int*
+program.cpp:33:19: error: too few arguments to function 'void qsort(void*, size_t, size_t, __compar_fn_t)'
+   33 |   qsort(ar, ar + n);
+      |                   ^
+In file included from /usr/include/c++/10.2.0/bits/std_abs.h:38,
+                 from /usr/include/c++/10.2.0/cmath:47,
+                 from /usr/include/c++/10.2.0/x86_64-pc-linux-gnu/bits/stdc++.h:41,
+                 from program.cpp:1:
+/usr/include/stdlib.h:830:13: note: declared here
+  830 | extern void qsort (void *__base, size_t __nmemb, size_t __size,
+      |             ^~~~~
+program.cpp:34:16: error: invalid conversion from 'int*' to 'size_t' {aka 'long unsigned int'} [-fpermissive]
+   34 |   qsort(br, br + m, greater<int>());
+      |             ~~~^~~
+      |                |
+      |                int*
+program.cpp:34:21: error: cannot convert 'std::greater<int>' to 'size_t' {aka 'long unsigned int'}
+   34 |   qsort(br, br + m, greater<int>());
+      |                     ^~~~~~~~~~~~~~
+      |                     |
+      |                     std::greater<int>
+In file included from /usr/include/c++/10.2.0/bits/std_abs.h:38,
+                 from /usr/include/c++/10.2.0/cmath:47,
+                 from /usr/include/c++/10.2.0/x86_64-pc-linux-gnu/bits/stdc++.h:41,
+                 from program.cpp:1:
+/usr/include/stdlib.h:830:57: note:   initializing argument 3 of 'void qsort(void*, size_t, size_t, __compar_fn_t)'
+  830 | extern void qsort (void *__base, size_t __nmemb, size_t __size,
+      |                                                  ~~~~~~~^~~~~~
+
+[Done] exited with code=1 in 0.965 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.097 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.123 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.137 seconds
+

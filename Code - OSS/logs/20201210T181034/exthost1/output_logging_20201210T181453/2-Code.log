@@ -1,0 +1,54 @@
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+program.cpp: In function 'int main()':
+program.cpp:42:10: error: expected ';' before '}' token
+   42 |    i -= 2
+      |          ^
+      |          ;
+   43 |   }
+      |   ~       
+
+[Done] exited with code=1 in 1.161 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+program.cpp: In function 'int main()':
+program.cpp:42:10: error: expected ';' before '}' token
+   42 |    i -= 2
+      |          ^
+      |          ;
+   43 |   }
+      |   ~       
+
+[Done] exited with code=1 in 1.023 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.11 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.094 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.082 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.092 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.069 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.051 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.036 seconds
+
+[Running] cd "/home/rohit/cp/" && g++ program.cpp -o program && "/home/rohit/cp/"program
+
+[Done] exited with code=0 in 1.045 seconds
+
